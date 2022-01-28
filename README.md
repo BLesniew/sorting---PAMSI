@@ -1,7 +1,7 @@
 # Sorting-PAMSI (designing algorithms and AI methods)
 Program written as part of the studies at Wroclaw University of Science and Technology
 
-Program destined to sort movies (or any other data) by their rank from data file with very specific format using 3 different algorithms.
+Program destined to sort movies (or any other data) by their rank in an ascending order from data file with very specific format using 3 different algorithms.
 
 The ranking field is known to be either empty or an intiger within the range 0 to 10.
 
