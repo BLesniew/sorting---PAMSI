@@ -5,7 +5,7 @@ Program destined to sort movies (or any other data) by their rank in an ascendin
 
 The ranking field is known to be either empty or an intiger within the range 0 to 10.
 
-The UI is all in console and in Polish language.
+The UI is all in console and in Polish language as well as comments in code, but variables, functions, etc. are in English.
 
 # Used sorting algorithms:
 - bucket sort
